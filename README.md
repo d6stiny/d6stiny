@@ -4,7 +4,7 @@
 I'm a software engineer based in Portugal. I like to say that I'm fullstack, though I'm mostly experienced in backend.
 
 <a href="https://discord.com/users/1026483526163517542">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1026483526163517542?hideTimestamp=true&idleMessage=Just%20chillin'..." align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/1026483526163517542?hideTimestamp=true&hideDiscrim=true&idleMessage=Just%20chillin'..." align="right" />
 </a>
 
 <details>
