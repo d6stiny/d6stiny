@@ -24,7 +24,7 @@ I'm a software engineer based in Portugal. I like to say that I'm fullstack, tho
 [![Databases](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
 
 #### Others
-[![Others](https://skillicons.dev/icons?i=cloudflare,aws,vercel,linux)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=cloudflare,aws,vercel,linux,docker)](https://skillicons.dev)
 
 <details>
 
