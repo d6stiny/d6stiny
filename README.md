@@ -7,8 +7,7 @@ I'm a software engineer based in Portugal. I like to say that I'm fullstack, tho
   <img src="https://lanyard-profile-readme.vercel.app/api/1026483526163517542?hideTimestamp=true&hideDiscrim=true&idleMessage=Just%20chillin'..." align="right" />
 </a>
 
-<details>
-<summary>⚡️Experience</summary>
+### ⚡️Experience
 
 #### Languages/Runtimes
 
@@ -31,7 +30,5 @@ I'm a software engineer based in Portugal. I like to say that I'm fullstack, tho
 <summary>Learning</summary>
 
 [![Learning](https://skillicons.dev/icons?i=graphql,apollo,jest,astro,svelte,nuxtjs,rust,swift,go,ruby)](https://skillicons.dev)
-
-</details>
 
 </details>
