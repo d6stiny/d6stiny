@@ -14,7 +14,7 @@ I'm a software engineer based in Portugal. I like to say that I'm fullstack, tho
 [![Languages/Runtimes](https://skillicons.dev/icons?i=js,nodejs,ts,cpp,html,md,cs,graphql)](https://skillicons.dev)
 
 #### Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,astro,svelte,tailwindcss,express,apollo)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,svelte,tailwindcss,express,apollo)](https://skillicons.dev)
 
 #### Tools
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,bash,vim,docker,git,github,githubactions)](https://skillicons.dev)
