@@ -11,24 +11,16 @@ I'm a software engineer based in Portugal. I like to say that I'm fullstack, tho
 
 #### Languages/Runtimes
 
-[![Languages/Runtimes](https://skillicons.dev/icons?i=js,nodejs,ts,cpp,html,md,cs,graphql)](https://skillicons.dev)
+[![Languages/Runtimes](https://skillicons.dev/icons?i=js,nodejs,ts,cpp,html,md,cs)](https://skillicons.dev)
 
 #### Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,svelte,astro,tailwindcss,express,apollo)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,svelte,astro,tailwindcss,express)](https://skillicons.dev)
 
 #### Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,idea,bash,vim,docker,git,github,githubactions)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,bash,vim,docker,git,github,githubactions,vite)](https://skillicons.dev)
 
 #### Databases
 [![Databases](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
 
 #### Others
-[![Others](https://skillicons.dev/icons?i=cloudflare,aws,vercel,linux,vite)](https://skillicons.dev)
-
-<details>
-
-<summary>Learning</summary>
-
-[![Learning](https://skillicons.dev/icons?i=jest,rust,swift,go,ruby)](https://skillicons.dev)
-
-</details>
+[![Others](https://skillicons.dev/icons?i=cloudflare,aws,vercel,linux)](https://skillicons.dev)
