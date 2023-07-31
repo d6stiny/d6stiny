@@ -12,7 +12,7 @@ I'm a 16y/o self-taught fullstack developer from Portugal. I like to say that I'
 
 #### Backend
 
-[![Backend](https://skillicons.dev/icons?i=js,nodejs,ts,express,nextjs)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=js,nodejs,ts,go,nextjs)](https://skillicons.dev)
 
 #### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,svelte,astro,tailwindcss)](https://skillicons.dev)
