@@ -10,21 +10,21 @@ I'm a 16y/o self-taught fullstack developer from Portugal. I like to say that I'
 
 ### Tech Stack
 
-#### Backend
+#### Languages/Runtimes
 
-[![Backend](https://skillicons.dev/icons?i=js,nodejs,ts,go,nextjs)](https://skillicons.dev)
+[![Languages/Runtimes](https://skillicons.dev/icons?i=js,nodejs,ts,go,cpp,html,cs)](https://skillicons.dev)
 
-#### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,svelte,astro,tailwindcss)](https://skillicons.dev)
+#### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,astro,svelte,tailwindcss)](https://skillicons.dev)
 
 #### Databases
-[![Databases](https://skillicons.dev/icons?i=prisma,planetscale)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=prisma,redis)](https://skillicons.dev)
 
-#### Linux
-[![Linux](https://skillicons.dev/icons?i=linux,bash,git,docker,vim)](https://skillicons.dev)
+#### Tools
+[![Tools](https://skillicons.dev/icons?i=vscode,git,vim,bash,ghactions,docker)](https://skillicons.dev)
 
 #### Cloud
-[![Databases](https://skillicons.dev/icons?i=vercel,cloudflare)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=vercel,cloudflare,planetscale)](https://skillicons.dev)
 
 #### Others
-[![Others](https://skillicons.dev/icons?i=vscode,github,githubactions)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=github,linux)](https://skillicons.dev)
