@@ -8,7 +8,7 @@ I'm a 16y/o self-taught fullstack developer from Portugal. I like to say that I'
   <img src="https://lanyard-profile-readme.vercel.app/api/1026483526163517542?hideTimestamp=true&hideDiscrim=true&idleMessage=Just%20chillin'..." align="right" />
 </a>
 
-### Tech Stack
+### Experience
 
 #### Languages/Runtimes
 
