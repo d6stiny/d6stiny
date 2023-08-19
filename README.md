@@ -18,10 +18,10 @@ I'm a 16y/o self-taught fullstack developer from Portugal. I like to say that I'
 [![Frameworks](https://skillicons.dev/icons?i=react,nextjs,astro,svelte,tailwindcss)](https://skillicons.dev)
 
 #### Databases
-[![Databases](https://skillicons.dev/icons?i=prisma,redis)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=prisma,redis,mysql)](https://skillicons.dev)
 
 #### Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,git,vim,bash,ghactions,docker)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,git,vim,neovim,bash,ghactions,docker)](https://skillicons.dev)
 
 #### Cloud
 [![Cloud](https://skillicons.dev/icons?i=vercel,cloudflare,planetscale)](https://skillicons.dev)
