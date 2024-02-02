@@ -12,7 +12,7 @@ I'm a 16y/o self-taught fullstack developer from Portugal. I like to say that I'
 
 #### Languages/Runtimes
 
-[![Languages/Runtimes](https://skillicons.dev/icons?i=js,nodejs,ts)](https://skillicons.dev)
+[![Languages/Runtimes](https://skillicons.dev/icons?i=js,nodejs,ts,swift)](https://skillicons.dev)
 
 #### Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=react,nextjs,astro,svelte,tailwindcss)](https://skillicons.dev)
